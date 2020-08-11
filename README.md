@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting React Navigators To Redux Stores](http://www.shivamkapoor.com/blogs/technology/2020/01/28/connecting-react-navigators-to-redux-stores/)
+- [Render Components Within Safe Area Boundaries For All React Native Apps](http://www.shivamkapoor.com/blogs/technology/2019/11/08/render-components-within-safe-area-boundaries-for-all-react-native-apps/)
+- [Implementing Lagom Readside Persistence Using Slick](http://www.shivamkapoor.com/blogs/technology/2019/10/01/implementing-lagom-readside-persistence-using-slick/)
+- [Mapping Exceptions To Idiomatic Http Responses In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/09/05/mapping-exceptions-to-idiomatic-http-responses-in-lagom/)
+- [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
