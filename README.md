@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Bash" width="52px" height="60px" src="https://cdn.svgporn.com/logos/bash.svg" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Akka" width="52px" height="60px" src="https://cdn.svgporn.com/logos/akka.svg" />](https://akka.io/)
 [<img align="left" alt="Play" width="66px" height="60px" src="https://cdn.svgporn.com/logos/play.svg" />](https://www.playframework.com/)
-[<img align="left" alt="Lagom" width="100px" height="60px" src="https://i1.wp.com/blog.knoldus.com/wp-content/uploads/2017/03/logom.png" />](https://www.lagomframework.com/)
+[<img align="left" alt="Lagom" width="60px" height="60px" src="https://img.stackshare.io/service/9363/thumb_retina__S_jYodc_400x400.jpg" />](https://www.lagomframework.com/)
 [<img align="left" alt="Kafka" width="22px" height="60px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="Spark" width="110px" height="60px" src="https://miro.medium.com/max/700/1*D6i-SgoxWg3U5yQ_4vJRmg.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="65px" height="60px" src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/18wbqaoo99kmopng.png" />](http://scala-slick.org/)
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/codingkapoor){:target="_blank"}
-[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/codingkapoor){:target="_blank"}
-[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/codingkapoor/){:target="_blank"}
-[<img align="left" alt="twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/codingkapoor){:target="_blank"}
+[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/codingkapoor)
+[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/codingkapoor)
+[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/codingkapoor/)
+[<img align="left" alt="twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/codingkapoor)
 
