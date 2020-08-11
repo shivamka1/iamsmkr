@@ -33,19 +33,20 @@ Here are some ideas to get you started:
 [<img align="left" alt="Kafka" width="22px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="100px" src="https://miro.medium.com/max/300/1*SwYtZXf5Uujs9teTDuZpdA.jpeg" />](http://scala-slick.org/)
-[<img align="left" alt="ReactJS" width="100px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
-[<img align="left" alt="ReactNative" width="100px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactnative.dev/)
-[<img align="left" alt="Redux" width="100px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
-[<img align="left" alt="Bootstrap" width="100px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
-[<img align="left" alt="MySQL" width="100px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Cassandra" width="100px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
-[<img align="left" alt="MongoDB" width="100px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
-[<img align="left" alt="Redis" width="100px" src="https://cdn.svgporn.com/logos/redis.svg" />](https://redis.io/)
-[<img align="left" alt="H2" width="100px" src="https://www.h2database.com/html/images/db-64-t.png" />](https://www.h2database.com/html/main.html)
-[<img align="left" alt="Docker" width="100px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />](https://www.docker.com/)
-[<img align="left" alt="AWS" width="100px" src="https://cdn.svgporn.com/logos/aws.svg" />](https://aws.amazon.com/)
-[<img align="left" alt="GIT" width="100px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
-[<img align="left" alt="GITHub" width="100px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
+[<img align="left" alt="ReactJS" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="ReactNative" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactnative.dev/)
+[<img align="left" alt="Redux" width="22px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
+[<img align="left" alt="Bootstrap" width="22px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
+[<img align="left" alt="MySQL" width="22px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
+
+[<img align="left" alt="Cassandra" width="22px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
+[<img align="left" alt="MongoDB" width="22px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="Redis" width="42px" src="https://cdn.svgporn.com/logos/redis.svg" />](https://redis.io/)
+[<img align="left" alt="H2" width="42px" src="https://www.h2database.com/html/images/db-64-t.png" />](https://www.h2database.com/html/main.html)
+[<img align="left" alt="Docker" width="42px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />](https://www.docker.com/)
+[<img align="left" alt="AWS" width="42px" src="https://cdn.svgporn.com/logos/aws.svg" />](https://aws.amazon.com/)
+[<img align="left" alt="GIT" width="42px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
+[<img align="left" alt="GITHub" width="22px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
 
 <br></br>
 
@@ -61,4 +62,3 @@ Here are some ideas to get you started:
 - [Mapping Exceptions To Idiomatic Http Responses In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/09/05/mapping-exceptions-to-idiomatic-http-responses-in-lagom/)
 - [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
-
