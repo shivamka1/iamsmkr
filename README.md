@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 <br></br>
 <br></br>
+<br></br>
 
 ## Certifications
 
@@ -62,3 +63,4 @@ Here are some ideas to get you started:
 - [Mapping Exceptions To Idiomatic Http Responses In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/09/05/mapping-exceptions-to-idiomatic-http-responses-in-lagom/)
 - [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
+
