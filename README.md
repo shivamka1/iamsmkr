@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Docker" width="42px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />](https://www.docker.com/)
 [<img align="left" alt="AWS" width="42px" src="https://cdn.svgporn.com/logos/aws.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="GIT" width="42px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
-[<img align="left" alt="GITHub" width="22px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
+[<img align="left" alt="GITHub" width="42px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
 
 
 <br></br>
