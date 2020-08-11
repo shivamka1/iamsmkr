@@ -32,6 +32,19 @@ Here are some ideas to get you started:
 [<img align="left" alt="Lagom" width="82px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/03/lagom.png" />](https://www.lagomframework.com/)
 [<img align="left" alt="Kafka" width="22px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
+[<img align="left" alt="Slick" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](http://scala-slick.org/)
+[<img align="left" alt="ReactJS" width="100px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="ReactNative" width="100px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactnative.dev/)
+[<img align="left" alt="Redux" width="100px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
+[<img align="left" alt="Bootstrap" width="100px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
+[<img align="left" alt="MySQL" width="100px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
+[<img align="left" alt="Cassandra" width="100px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
+[<img align="left" alt="MongoDB" width="100px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="Redis" width="100px" src="https://cdn.svgporn.com/logos/redis.svg" />](https://redis.io/)
+[<img align="left" alt="H2" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://www.h2database.com/html/main.html)
+[<img align="left" alt="Docker" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://www.docker.com/)
+[<img align="left" alt="AWS" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://aws.amazon.com/)
+[<img align="left" alt="GIT" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://git-scm.com/)
 
 <br></br>
 
