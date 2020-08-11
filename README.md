@@ -66,7 +66,8 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[<img align="left" alt="stackoverflow" width="50px" height="50px" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-512.png" />](https://stackoverflow.com/users/1879109/codingkapoor)
-[<img align="left" alt="stackoverflow" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/codingkapoor)
-
+[<img align="left" alt="stackoverflow" width="40px" height="40px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/codingkapoor)
+[<img align="left" alt="linkedin" width="40px" height="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/codingkapoor)
+[<img align="left" alt="instagram" width="40px" height="40px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/codingkapoor/)
+[<img align="left" alt="twitter" width="40px" height="40px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/codingkapoor)
 
