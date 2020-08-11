@@ -1,5 +1,3 @@
-### Hi folks, I'm [Shivam Kapoor](http://shivamkapoor.com/) 👋
-
 🔭 Currently working as a **Sr. BigData Developer** at **Glassbeam**
 
 <!--
