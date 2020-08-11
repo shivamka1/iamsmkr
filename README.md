@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Redux" width="30px" height="55px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
 [<img align="left" alt="Bootstrap" width="40px" height="55px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
 [<img align="left" alt="MySQL" width="37px" height="55px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Cassandra" width="37px" height="55px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
+[<img align="left" alt="Cassandra" width="45px" height="55px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
 [<img align="left" alt="MongoDB" width="77px" height="55px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Redis" width="37px" height="55px" src="https://cdn.svgporn.com/logos/redis.svg" />](https://redis.io/)
 [<img align="left" alt="H2" width="37px" height="55px" src="https://www.h2database.com/html/images/db-64-t.png" />](https://www.h2database.com/html/main.html)
