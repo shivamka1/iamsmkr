@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="100px" src="https://miro.medium.com/max/300/1*SwYtZXf5Uujs9teTDuZpdA.jpeg" />](http://scala-slick.org/)
 
+
 [<img align="left" alt="ReactJS" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="ReactNative" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactnative.dev/)
 [<img align="left" alt="Redux" width="22px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="AWS" width="42px" src="https://cdn.svgporn.com/logos/aws.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="GIT" width="42px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com/)
 [<img align="left" alt="GITHub" width="22px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
+
 
 <br></br>
 
