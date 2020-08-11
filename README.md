@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill Set
-[<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />][scala]
+[<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/)
 
 <br/>
 
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
 - [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
 
-.[scala](https://www.scala-lang.org/)
