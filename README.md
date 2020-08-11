@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Slick" width="60px" height="55px" src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/18wbqaoo99kmopng.png" />](http://scala-slick.org/)
 [<img align="left" alt="ReactJS" width="45px" height="55px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="Redux" width="30px" height="55px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
-[<img align="left" alt="Bootstrap" width="40px" height="55px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
+[<img align="left" alt="Bootstrap" width="35px" height="55px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
 [<img align="left" alt="MySQL" width="37px" height="55px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Cassandra" width="50px" height="55px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
 [<img align="left" alt="MongoDB" width="85px" height="55px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
