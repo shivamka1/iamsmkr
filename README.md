@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor)](https://github.com/anuraghazra/github-readme-stats)
+[![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
