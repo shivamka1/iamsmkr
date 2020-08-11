@@ -1,4 +1,4 @@
-### Hi there, I'm Shivam Kapoor. 👋
+### Hi there, I'm Shivam Kapoor 👋
 
 <!--
 **codingkapoor/codingkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingkapoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Certifications
+
+- [Certified Reactive Architect](https://certification.mettl.com/lightbend/applicant/result/download-certificate?key=eK0d0i9D25CV30Nb56GxRA%3D%3D)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
