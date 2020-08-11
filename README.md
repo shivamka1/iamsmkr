@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/codingkapoor)
-[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/codingkapoor)
-[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/codingkapoor/)
+[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" target="_blank"/>](https://stackoverflow.com/users/1879109/codingkapoor)
+[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" target="_blank"/>](https://www.linkedin.com/in/codingkapoor)
+[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" target="_blank"/>](https://www.instagram.com/codingkapoor/)
 [<img align="left" alt="twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/codingkapoor)
 
