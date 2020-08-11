@@ -22,19 +22,24 @@ Here are some ideas to get you started:
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill Set
-• Programming Skills
+• **Programming Skills**
+
 Scala, Java, Javascript, Bash
 
-• Frameworks/Middleware
+• **Frameworks/Middleware**
+
 Akka, Play, Lagom, Slick, Kafka, Spark, ReactJs, ReactNative, Redux, Bootstrap
 
-• Methodologies
+• **Methodologies**
+
 DDD, OOP, Functional, Reactive, Restful, Microservices
 
-• Databases
+• **Databases**
+
 MySQL, PostgreSQL, Mongodb, Cassandra, Redis, H2
 
-• Open Source Platforms
+• **Open Source Platforms**
+
 Docker, AWS, Git
 
 ## Certifications
