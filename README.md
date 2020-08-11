@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Kafka" width="22px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="100px" src="https://miro.medium.com/max/300/1*SwYtZXf5Uujs9teTDuZpdA.jpeg" />](http://scala-slick.org/)
+
 [<img align="left" alt="ReactJS" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="ReactNative" width="22px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactnative.dev/)
 [<img align="left" alt="Redux" width="22px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
 [<img align="left" alt="Bootstrap" width="22px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
-
 [<img align="left" alt="Cassandra" width="22px" src="https://cdn.svgporn.com/logos/cassandra.svg" />](https://cassandra.apache.org/)
 [<img align="left" alt="MongoDB" width="22px" src="https://cdn.svgporn.com/logos/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Redis" width="42px" src="https://cdn.svgporn.com/logos/redis.svg" />](https://redis.io/)
