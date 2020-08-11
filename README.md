@@ -64,3 +64,8 @@ Here are some ideas to get you started:
 - [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
 
+## Connect With Me
+
+[<img align="left" alt="stackoverflow" width="42px" height="60px" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-512.png" />](https://stackoverflow.com/users/1879109/codingkapoor)
+
+
