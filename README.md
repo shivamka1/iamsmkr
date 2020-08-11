@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## Skills Set
 [<img align="left" alt="Scala" width="23px" height="55px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
 [<img align="left" alt="Java" width="25px" height="55px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="Javascript" width="37px" height="55px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Typescript" width="30px" height="55px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Javascript" width="33px" height="55px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Typescript" width="33px" height="55px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Akka" width="47px" height="55px" src="https://cdn.svgporn.com/logos/akka.svg" />](https://akka.io/)
 [<img align="left" alt="Play" width="61px" height="55px" src="https://cdn.svgporn.com/logos/play.svg" />](https://www.playframework.com/)
 [<img align="left" alt="Lagom" width="55px" height="55px" src="https://img.stackshare.io/service/9363/thumb_retina__S_jYodc_400x400.jpg" />](https://www.lagomframework.com/)
