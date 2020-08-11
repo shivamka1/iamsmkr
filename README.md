@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 
 ## Skill Set
 [<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
-[<img align="left" alt="Java" width="26px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="Javascript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Java" width="30px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
+[<img align="left" alt="Javascript" width="42px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Typescript" width="42px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Bash" width="42px" src="https://cdn.svgporn.com/logos/bash.svg" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Akka" width="42px" src="https://cdn.svgporn.com/logos/akka.svg" />](https://akka.io/)
 
 <br></br>
 
