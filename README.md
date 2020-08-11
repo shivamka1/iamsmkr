@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Play" width="66px" height="60px" src="https://cdn.svgporn.com/logos/play.svg" />](https://www.playframework.com/)
 [<img align="left" alt="Lagom" width="100px" height="30px" src="https://i1.wp.com/blog.knoldus.com/wp-content/uploads/2017/03/logom.png" />](https://www.lagomframework.com/)
 [<img align="left" alt="Kafka" width="22px" height="60px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
-[<img align="left" alt="Spark" width="110px" height="40px" src="https://miro.medium.com/max/700/1*D6i-SgoxWg3U5yQ_4vJRmg.png" />](https://spark.apache.org/)
+[<img align="left" alt="Spark" width="110px" height="70px" src="https://miro.medium.com/max/700/1*D6i-SgoxWg3U5yQ_4vJRmg.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="75px" height="40px" src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/18wbqaoo99kmopng.png" />](http://scala-slick.org/)
 [<img align="left" alt="ReactJS" width="48px" height="60px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="Redux" width="42px" height="60px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
