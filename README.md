@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skill Set
+## Skills Set
 [<img align="left" alt="Scala" width="28px" height="60px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
 [<img align="left" alt="Java" width="30px" height="60px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Javascript" width="42px" height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
