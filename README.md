@@ -67,5 +67,6 @@ Here are some ideas to get you started:
 ## Connect With Me
 
 [<img align="left" alt="stackoverflow" width="50px" height="50px" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-512.png" />](https://stackoverflow.com/users/1879109/codingkapoor)
+[<img align="left" alt="stackoverflow" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/codingkapoor)
 
 
