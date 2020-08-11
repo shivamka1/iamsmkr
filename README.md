@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Kafka" width="22px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
 [<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
 [<img align="left" alt="Slick" width="100px" src="https://miro.medium.com/max/300/1*SwYtZXf5Uujs9teTDuZpdA.jpeg" />](http://scala-slick.org/)
-
-[<img align="left" alt="ReactJS" width="62px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="ReactJS" width="52px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="Redux" width="42px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org/)
 [<img align="left" alt="Bootstrap" width="42px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />](https://getbootstrap.com/)
 [<img align="left" alt="MySQL" width="42px" src="https://cdn.svgporn.com/logos/mysql.svg" />](https://www.mysql.com/)
