@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[<img align="left" alt="stackoverflow" width="42px" height="60px" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-512.png" />](https://stackoverflow.com/users/1879109/codingkapoor)
+[<img align="left" alt="stackoverflow" width="60px" height="60px" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-512.png" />](https://stackoverflow.com/users/1879109/codingkapoor)
 
 
