@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Skill Set
 [<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/)
 
-<br/>
+</br>
 
 ## Certifications
 
