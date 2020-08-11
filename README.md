@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill Set
-<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][scala]
 
 <br/>
 
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 - [Mapping Exceptions To Idiomatic Http Responses In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/09/05/mapping-exceptions-to-idiomatic-http-responses-in-lagom/)
 - [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
 <!-- BLOG-POST-LIST:END -->
+
+.[scala](https://www.scala-lang.org/)
