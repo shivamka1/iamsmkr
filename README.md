@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivam Kapoor 👋
 
-- 🔭 I’m currently working as a *Sr. BigData Developer* for **Glassbeam**
+🔭 I’m currently working as a **Sr. BigData Developer** for **Glassbeam**
 
 <!--
 **codingkapoor/codingkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
