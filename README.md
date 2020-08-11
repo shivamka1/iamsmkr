@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill Set
-[<img align="left" alt="Scala" width="26px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
-[<img align="left" alt="Java" width="30px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="Javascript" width="42px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Typescript" width="42px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org/)
-[<img align="left" alt="Bash" width="55px" src="https://cdn.svgporn.com/logos/bash.svg" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="Akka" width="62px" src="https://cdn.svgporn.com/logos/akka.svg" />](https://akka.io/)
-[<img align="left" alt="Play" width="62px" src="https://cdn.svgporn.com/logos/play.svg" />](https://www.playframework.com/)
-[<img align="left" alt="Lagom" width="62px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/03/lagom.png" />](https://www.lagomframework.com/)
-[<img align="left" alt="Kafka" width="62px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
-[<img align="left" alt="Spark" width="62px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
+[<img align="left" alt="Scala" width="22px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
+[<img align="left" alt="Java" width="25px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
+[<img align="left" alt="Javascript" width="32px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Typescript" width="32px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Bash" width="42px" src="https://cdn.svgporn.com/logos/bash.svg" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Akka" width="42px" src="https://cdn.svgporn.com/logos/akka.svg" />](https://akka.io/)
+[<img align="left" alt="Play" width="56px" src="https://cdn.svgporn.com/logos/play.svg" />](https://www.playframework.com/)
+[<img align="left" alt="Lagom" width="82px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/03/lagom.png" />](https://www.lagomframework.com/)
+[<img align="left" alt="Kafka" width="22px" src="https://cdn.svgporn.com/logos/kafka-icon.svg" />](https://kafka.apache.org/)
+[<img align="left" alt="Spark" width="100px" src="https://www.inovex.de/blog/wp-content/uploads/2016/12/spark.png" />](https://spark.apache.org/)
 
 <br></br>
 
