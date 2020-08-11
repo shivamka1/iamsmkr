@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingkapoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Connecting React Navigators To Redux Stores](http://www.shivamkapoor.com/blogs/technology/2020/01/28/connecting-react-navigators-to-redux-stores/)
