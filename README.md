@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 ## Certifications
 
 - [Certified Reactive Architect](https://certification.mettl.com/lightbend/applicant/result/download-certificate?key=eK0d0i9D25CV30Nb56GxRA%3D%3D)
+- [Functional Programming in Scala Specialization](https://coursera.org/share/1026d76c1f96d649eaf3375fb5f6eec6)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
