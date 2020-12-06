@@ -1,7 +1,7 @@
 🔭 Currently working as a **Sr. BigData Developer** at **Glassbeam**
 
 <!--
-**codingkapoor/codingkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamsmkr/iamsmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingkapoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![codingkapoor's github stats](https://github-readme-stats.vercel.app/api?username=codingkapoor&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iamsmkr's github stats](https://github-readme-stats.vercel.app/api?username=iamsmkr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills Set
 [<img align="left" alt="Scala" width="23px" height="55px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
@@ -64,8 +64,7 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/codingkapoor)
-[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/codingkapoor)
-[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/codingkapoor/)
-[<img align="left" alt="twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/codingkapoor)
-
+[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />](https://stackoverflow.com/users/1879109/iamsmkr)
+[<img align="left" alt="linkedin" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/iamsmkr)
+[<img align="left" alt="instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/iamsmkr/)
+[<img align="left" alt="twitter" width="30px" height="30px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />](https://twitter.com/iamsmkr)
