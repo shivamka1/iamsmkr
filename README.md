@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Framework for "Small Talks"](http://www.shivamkapoor.com/blogs/technology/2021/04/21/small-talks-framework/)
+- [A Framework for "Small Talks"](http://www.shivamkapoor.com/blogs/technology/2021/04/24/a-framework-for-small-talks/)
 - [Recursive Descent Parsers in Scala 3: Cross Compiling Scala Parser Library to Javascript Using Scala.js](http://www.shivamkapoor.com/blogs/technology/2020/12/07/recursive-descent-parsers-in-scala-3-cross-compiling-scala-parser-library-to-javascript-using-scala-js/)
 - [Recursive Descent Parsers in Scala 2: Build Parser Using FastParse Parser Combinators](http://www.shivamkapoor.com/blogs/technology/2020/08/11/recursive-descent-parsers-in-scala-2-build-parser-using-fastparse-parser-combinators/)
 - [Recursive Descent Parsers in Scala 1: Writing Context-Free Grammar](http://www.shivamkapoor.com/blogs/technology/2020/06/03/recursive-descent-parsers-in-scala-1-writing-context-free-grammar/)
