@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmkr&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![iamsmkr's github stats](https://github-readme-stats.vercel.app/api?username=iamsmkr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iamsmkr's github stats](https://github-readme-stats.vercel.app/api?username=iamsmkr&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills Set
 [<img align="left" alt="Scala" width="23px" height="55px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
