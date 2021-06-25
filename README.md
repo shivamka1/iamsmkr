@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GITHub" width="37px" height="55px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
 [<img align="left" alt="Akka Streams" width="80px" height="55px" src="https://i.postimg.cc/63tN9y2x/akka-streams-png.png" />](https://doc.akka.io/docs/akka/current/stream/index.html)
 [<img align="left" alt="Neo4j" width="100px" height="45px" src="https://www.hitdatanow.com/img/banners/neo4j_logo.png" />](https://neo4j.com/)
+
 [<img align="left" alt="GraphQL" width="100px" height="35px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" />](https://graphql.org/)
 
 
