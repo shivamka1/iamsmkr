@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Render Components Within Safe Area Boundaries For All React Native Apps](http://www.shivamkapoor.com/blogs/technology/2019/11/08/render-components-within-safe-area-boundaries-for-all-react-native-apps/)
-- [Implementing Lagom Readside Persistence Using Slick](http://www.shivamkapoor.com/blogs/technology/2019/10/01/implementing-lagom-readside-persistence-using-slick/)
-- [Mapping Exceptions To Idiomatic Http Responses In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/09/05/mapping-exceptions-to-idiomatic-http-responses-in-lagom/)
-- [Exception Serialization In Lagom](http://www.shivamkapoor.com/blogs/technology/2019/08/15/exception-serialization-in-lagom/)
-- [Code Design Template For Apache POI Based Excel Writers](http://www.shivamkapoor.com/blogs/technology/2019/07/10/code-design-template-for-apache-poi-based-excel-writers/)
+- [Start here for a quick overview of everything you need to know](http://www.shivamkapoor.com/blogs/technology/welcome/)
+- [Customizing your brand and design settings](http://www.shivamkapoor.com/blogs/technology/design/)
+- [Writing and managing content in Ghost, an advanced guide](http://www.shivamkapoor.com/blogs/technology/write/)
+- [Building your audience with subscriber signups](http://www.shivamkapoor.com/blogs/technology/portal/)
+- [Selling premium memberships with recurring revenue](http://www.shivamkapoor.com/blogs/technology/sell/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me
