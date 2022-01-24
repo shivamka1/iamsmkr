@@ -1,4 +1,4 @@
-🔭 Currently working as a **Sr. BigData Developer** at **Glassbeam**
+🔭 Currently working as a **Senior Software Engineer** at **Pometry**
 
 <!--
 **iamsmkr/iamsmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
