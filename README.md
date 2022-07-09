@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Services using Apache Curator in Scala](http://shivamkapoor.com/blogs/technology/2022/07/08/discovering-services-using-apache-curator-in-scala/)
 - [Ensure Conventional Commits in your SBT projects](http://www.shivamkapoor.com/blogs/technology/2021/10/16/ensure-conventional-commits-in-your-sbt-projects/)
 - [Making sense of Functors in Scala](http://www.shivamkapoor.com/blogs/technology/2021/06/04/making-sense-of-functors-in-scala/)
 - [A Framework for &quot;Small Talks&quot;](http://www.shivamkapoor.com/blogs/technology/2021/04/24/a-framework-for-small-talks/)
