@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tackling Heterogeneity in Apache Arrow Value Vectors Using Shapeless](http://www.shivamkapoor.com/blogs/technology/2022/07/17/tackling-heterogeneity-in-apache-arrow-value-vectors-using-shapeless/)
 - [Discovering Services using Apache Curator in Scala](http://shivamkapoor.com/blogs/technology/2022/07/08/discovering-services-using-apache-curator-in-scala/)
 - [Ensure Conventional Commits in your SBT projects](http://www.shivamkapoor.com/blogs/technology/2021/10/16/ensure-conventional-commits-in-your-sbt-projects/)
 - [Making sense of Functors in Scala](http://www.shivamkapoor.com/blogs/technology/2021/06/04/making-sense-of-functors-in-scala/)
