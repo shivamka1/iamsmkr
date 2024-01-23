@@ -56,13 +56,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tackling Heterogeneity in Apache Arrow Value Vectors Using Shapeless](http://www.shivamkapoor.com/blogs/technology/2022/07/17/tackling-heterogeneity-in-apache-arrow-value-vectors-using-shapeless/)
-- [Discovering Services using Apache Curator in Scala](http://shivamkapoor.com/blogs/technology/2022/07/08/discovering-services-using-apache-curator-in-scala/)
-- [Ensure Conventional Commits in your SBT projects](http://www.shivamkapoor.com/blogs/technology/2021/10/16/ensure-conventional-commits-in-your-sbt-projects/)
-- [Making sense of Functors in Scala](http://www.shivamkapoor.com/blogs/technology/2021/06/04/making-sense-of-functors-in-scala/)
-- [A Framework for &quot;Small Talks&quot;](http://www.shivamkapoor.com/blogs/technology/2021/04/24/a-framework-for-small-talks/)
-- [Recursive Descent Parsers in Scala 3: Cross Compiling Scala Parser Library to Javascript Using Scala.js](http://www.shivamkapoor.com/blogs/technology/2020/12/06/recursive-descent-parsers-in-scala-3-cross-compiling-scala-parser-library-to-javascript-using-scala-js/)
-- [Recursive Descent Parsers in Scala 2: Build Parser Using FastParse Parser Combinators](http://www.shivamkapoor.com/blogs/technology/2020/08/10/recursive-descent-parsers-in-scala-2-build-parser-using-fastparse-parser-combinators/)
+- [Tackling Heterogeneity in Apache Arrow Value Vectors Using Shapeless](https://localhost:80/2022/07/17/tackling-heterogeneity-in-apache-arrow-value-vectors-using-shapeless/)
+- [Discovering Services using Apache Curator in Scala](https://localhost:80/2022/07/08/discovering-services-using-apache-curator-in-scala/)
+- [Redpanda Highlights](https://localhost:80/2021/12/13/redpanda-insights/)
+- [Ensure Conventional Commits in your SBT projects](https://localhost:80/2021/10/16/ensure-conventional-commits-in-your-sbt-projects/)
+- [Making sense of Functors in Scala](https://localhost:80/2021/06/04/making-sense-of-functors-in-scala/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me
