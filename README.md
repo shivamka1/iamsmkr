@@ -66,7 +66,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me
-[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://i.postimg.cc/L6mYn4nv/stack-overflow.png" />](https://stackoverflow.com/users/1879109/iamsmkr)
+[<img align="left" alt="stackoverflow" width="30px" height="30px" src="https://i.postimg.cc/L6mYn4nv/stack-overflow.png" />](https://stackoverflow.com/users/1879109/shivam-kapoor)
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://i.postimg.cc/GmhyS3R9/linkedin.png" />](https://www.linkedin.com/in/iamsmkr)
-[<img align="left" alt="instagram" width="30px" height="30px" src="https://i.postimg.cc/zGbJf4S0/instagram-2.png" />](https://www.instagram.com/iamsmkr/)
-[<img align="left" alt="twitter" width="30px" height="30px" src="https://i.postimg.cc/P5h4fkjk/twitter.png" />](https://twitter.com/iamsmkr)
