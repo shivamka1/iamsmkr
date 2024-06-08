@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![iamsmkr's github stats](https://github-readme-stats.vercel.app/api?username=iamsmkr&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 ## Skills Set
 [<img align="left" alt="Scala" width="23px" height="55px" src="https://cdn.svgporn.com/logos/scala.svg" />](https://www.scala-lang.org/) 
 [<img align="left" alt="Java" width="25px" height="55px" src="https://cdn.svgporn.com/logos/java.svg" />](https://www.java.com/en/)
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GITHub" width="37px" height="55px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/)
 [<img align="left" alt="Akka Streams" width="90px" height="55px" src="https://i.postimg.cc/63tN9y2x/akka-streams-png.png" />](https://doc.akka.io/docs/akka/current/stream/index.html)
 [<img align="left" alt="Neo4j" width="90px" height="45px" src="https://www.hitdatanow.com/img/banners/neo4j_logo.png" />](https://neo4j.com/)
-
+-->
 <br></br>
 <br></br>
 <br></br>
