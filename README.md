@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Bloom Filters Mathmania](https://shivamkapoor.com/2025/01/13/bloom-filters-mathmania/)
+- [Using Binomial Distribution to Model Data Durability](https://shivamkapoor.com/2024/11/14/using-binomial-distribution-to-model-data-durability/)
 - [Tackling Heterogeneity in Apache Arrow Value Vectors Using Shapeless](https://shivamkapoor.com/2022/07/17/tackling-heterogeneity-in-apache-arrow-value-vectors-using-shapeless/)
 - [Discovering Services using Apache Curator in Scala](https://shivamkapoor.com/2022/07/08/discovering-services-using-apache-curator-in-scala/)
 - [Redpanda Highlights](https://shivamkapoor.com/2021/12/13/redpanda-insights/)
-- [Ensure Conventional Commits in your SBT projects](https://shivamkapoor.com/2021/10/16/ensure-conventional-commits-in-your-sbt-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me
